@@ -6,3 +6,8 @@ body{
 .staff {
     color: green;
 }
+
+.staff-searchd {
+    background: red;
+    color: white;
+}
